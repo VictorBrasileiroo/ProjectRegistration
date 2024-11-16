@@ -60,6 +60,8 @@ O sistema é projetado exclusivamente para a web, utilizando principalmente **Re
 
 Atualmente, as informações cadastradas e modificadas são temporárias, já que o sistema ainda não está integrado a um banco de dados. No entanto, todas as funcionalidades estão totalmente operacionais, garantindo o uso adequado para testes e demonstrações.
 
+O **frontend** foi hospedado e implantado no **Netlify**, garantindo uma experiência de usuário rápida e otimizada. O **backend** e a **API** foram hospedados e implantados na **Vercel**, proporcionando um desempenho robusto e escalável para o gerenciamento dos dados e funcionalidades do sistema.
+
 ## Instalação
 Siga os passos abaixo para instalar e rodar o projeto localmente:
 

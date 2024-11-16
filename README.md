@@ -51,7 +51,7 @@ O projeto é completamente responsivo, adaptando-se perfeitamente a qualquer dis
 Abaixo, confira algumas capturas de tela do projeto em diferentes dispositivos.
 
 <img  src="src/assets/img/mobile.svg" alt=""></img>
-<br/>
+<hr/>
 <img  src="src/assets/img/macs.svg" alt=""></img>
 
 ### Código

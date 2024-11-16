@@ -3,7 +3,7 @@ StoreRegistration é um projeto React desenvolvido para o registro e manutençã
 <hr/>
 <img src="src/assets/img/Group 3.svg" alt="">
 <h2><a href='https://projectregistrationstore.netlify.app/
-'>Clique aqui para visitar o site</a></h2>
+'>Clique aqui para visitar o site 📌❗</a></h2>
 
 <hr/>
 

@@ -1,7 +1,7 @@
 # **StoreRegistration**
 StoreRegistration é um projeto React desenvolvido para o registro e manutenção de informações de clientes. O sistema é direcionado a pequenas empresas que precisam de uma solução prática para visualizar, registrar e editar facilmente os dados de seus clientes. Esta aplicação foi construída utilizando React.js para o frontend e Node.js para o backend.
 <hr/>
-<img src="../assets/img/Group 3.svg" alt="">
+<img src="../../assets/img/Group 3.svg" alt="">
 <h3><a href='https://victorbrasileiroo.github.io/FitFinder/
 '>Clique aqui para visitar o site</a></h3>
 

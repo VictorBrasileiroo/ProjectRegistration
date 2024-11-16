@@ -80,7 +80,7 @@ Siga os passos abaixo para instalar e rodar o projeto localmente:
 
 ## Autor
 | Nome | Email | Curso | Área
-|----------|----------|
+|----------|----------|----------|----------|
 | Victor Brasileiro  | valb1@ic.ufal.br | Ciência da Computação | Desenvolvedor React.JS
 
 ## Licença
